@@ -1,0 +1,26 @@
+auth-server: http://127.0.0.1:8090
+local-server: http://127.0.0.1:8091
+server:
+  port: 8091
+  servlet:
+    context-path: /
+    session:
+      cookie:
+        name: JSAUID
+spring:
+  main:
+    allow-bean-definition-overriding: true
+security:
+  oauth2:
+    sso:
+      login-path: /sso/login
+    client:
+      client-id: sso01
+      client-secret: 123456
+      user-authorization-uri: ${auth-server}/oauth/authorize
+      access-token-uri: ${auth-server}/oauth/token
+    resource:
+      user-info-uri: ${auth-server}/authentication/user
+logging:
+  level:
+    org.springframework: info
