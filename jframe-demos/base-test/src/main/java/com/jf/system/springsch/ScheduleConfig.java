@@ -6,7 +6,7 @@ import org.springframework.scheduling.annotation.Scheduled;
 /**
  * Created with IntelliJ IDEA.
  * Description: Spring定时器
- * User: xujunfei
+ * User: admin
  * Date: 2017-11-28
  * Time: 11:03
  */

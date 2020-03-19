@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 /**
  * Created with IntelliJ IDEA.
  * Description: 键值对配置
- * User: xujunfei
+ * User: admin
  * Date: 2019-03-04
  * Time: 17:08
  */

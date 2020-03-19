@@ -3,7 +3,7 @@ package com.jf.database.model;
 /**
  * Created with IntelliJ IDEA.
  * Description:
- * User: xujunfei
+ * User: admin
  * Date: 2018-10-31
  * Time: 16:37
  */

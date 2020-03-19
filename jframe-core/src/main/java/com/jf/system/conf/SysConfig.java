@@ -8,7 +8,7 @@ import java.util.Arrays;
 /**
  * Created with IntelliJ IDEA.
  * Description: 系统自定义全局配置变量 application.yml
- * User: xujunfei
+ * User: admin
  * Date: 2017-11-28
  * Time: 15:52
  */

@@ -23,7 +23,7 @@ import java.time.Duration;
 /**
  * Created with IntelliJ IDEA.
  * Description: Spring Redis缓存
- * User: xujunfei
+ * User: admin
  * Date: 2018-01-03
  * Time: 10:38
  */

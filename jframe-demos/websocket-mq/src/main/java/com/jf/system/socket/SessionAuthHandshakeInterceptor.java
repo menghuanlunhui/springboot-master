@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * Created with IntelliJ IDEA.
  * Description: 定义handshake握手拦截器
- * User: xujunfei
+ * User: admin
  * Date: 2018-01-10
  * Time: 15:18
  */

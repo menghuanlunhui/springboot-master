@@ -3,7 +3,7 @@ package com.jf.entity;
 /**
  * Created with IntelliJ IDEA.
  * Description: ResMsg Code
- * User: xujunfei
+ * User: admin
  * Date: 2019-06-27
  * Time: 14:00
  */

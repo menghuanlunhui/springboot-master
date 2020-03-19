@@ -3,7 +3,7 @@ package com.jf.database.enums;
 /**
  * Created with IntelliJ IDEA.
  * Description: 枚举返回码
- * User: xujunfei
+ * User: admin
  * Date: 2018-05-28
  * Time: 10:38
  */

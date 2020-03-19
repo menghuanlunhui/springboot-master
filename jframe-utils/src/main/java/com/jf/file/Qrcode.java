@@ -13,7 +13,7 @@ import java.util.Hashtable;
 /**
  * Created with IntelliJ IDEA.
  * Description: 生成二维码
- * User: xujunfei
+ * User: admin
  * Date: 2018-03-08
  * Time: 12:44
  */

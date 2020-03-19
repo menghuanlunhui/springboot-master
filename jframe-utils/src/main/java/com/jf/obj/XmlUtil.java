@@ -6,7 +6,7 @@ import com.thoughtworks.xstream.io.xml.DomDriver;
 /**
  * Created with IntelliJ IDEA.
  * Description: XML-对象互转
- * User: xujunfei
+ * User: admin
  * Date: 2018-07-06
  * Time: 16:18
  */

@@ -3,7 +3,7 @@ package com.jf.string;
 /**
  * Created with IntelliJ IDEA.
  * Description: ID生成器
- * User: xujunfei
+ * User: admin
  * Date: 2018-01-10
  * Time: 09:32
  */

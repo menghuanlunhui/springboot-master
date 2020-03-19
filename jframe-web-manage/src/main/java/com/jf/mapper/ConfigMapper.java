@@ -10,7 +10,7 @@ import java.util.Map;
  * ConfigMapper Interface
  *
  * @date 2018年06月22日 下午 12:03:38
- * @author jfxu
+ * @Author admin
  */
 public interface ConfigMapper {
 

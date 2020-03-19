@@ -8,7 +8,7 @@ import org.springframework.data.elasticsearch.repository.ElasticsearchRepository
 /**
  * Created with IntelliJ IDEA.
  * Description: 自定义搜索方法
- * User: xujunfei
+ * User: admin
  * Date: 2019-07-16
  * Time: 11:32
  */

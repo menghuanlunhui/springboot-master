@@ -22,7 +22,7 @@ import java.util.*;
 /**
  * Created with IntelliJ IDEA.
  * Description: 统一异常处理(返回JSON或跳转页面)
- * User: xujunfei
+ * User: admin
  * Date: 2018-05-23
  * Time: 16:33
  */

@@ -29,7 +29,7 @@ import java.util.Map;
 /**
  * Created with IntelliJ IDEA.
  * Description: App Token
- * User: xujunfei
+ * User: admin
  * Date: 2018-05-24
  * Time: 15:07
  */

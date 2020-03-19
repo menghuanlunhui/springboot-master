@@ -26,7 +26,7 @@ import java.util.List;
 /**
  * Created with IntelliJ IDEA.
  * Description: Spring WebSocket配置 【独立服务版本】
- * User: xujunfei
+ * User: admin
  * Date: 2018-01-09
  * Time: 14:40
  */

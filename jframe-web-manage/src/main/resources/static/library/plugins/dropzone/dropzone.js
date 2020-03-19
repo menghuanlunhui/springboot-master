@@ -1732,7 +1732,7 @@
       default: '',
       type: 1
    });
- * Created by xujunfei on 2017/5/23.
+ * Created by admin on 2017/5/23.
  */
 !(function ($) {
     $.fn.Uploader = function (settings) {
@@ -1880,7 +1880,7 @@
         t.attr("src", data);
       }
    });
- * Created by xujunfei on 2017/5/23.
+ * Created by admin on 2017/5/23.
  */
 !(function ($) {
     $.UploaderSingle = function (settings) {
@@ -1953,7 +1953,7 @@
         });
       }
    });
- * Created by xujunfei on 2018/6/23.
+ * Created by admin on 2018/6/23.
  */
 !(function ($) {
     $.UploaderExcel = function (settings) {

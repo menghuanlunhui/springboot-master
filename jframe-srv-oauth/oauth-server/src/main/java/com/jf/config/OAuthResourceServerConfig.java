@@ -12,7 +12,7 @@ import org.springframework.security.oauth2.config.annotation.web.configurers.Res
 /**
  * Created with IntelliJ IDEA.
  * Description: 资源服务
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-07
  * Time: 09:59
  */

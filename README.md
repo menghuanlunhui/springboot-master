@@ -1,6 +1,6 @@
 # JFrame
 ##### JFrame - SpringBoot & Cloud Project `v5.7.5`
-made by @jackson-rick   <br>
+
 本架构是对技术框架的整合及开发的规范，适合多端项目和微服务
 
 

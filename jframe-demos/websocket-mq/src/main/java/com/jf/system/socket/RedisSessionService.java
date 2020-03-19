@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Created with IntelliJ IDEA.
  * Description: Redis服务类
- * User: xujunfei
+ * User: admin
  * Date: 2019-03-08
  * Time: 15:22
  */

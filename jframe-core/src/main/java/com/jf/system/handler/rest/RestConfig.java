@@ -13,7 +13,7 @@ import java.nio.charset.StandardCharsets;
 /**
  * Created with IntelliJ IDEA.
  * Description: RestTemplate 请求
- * User: xujunfei
+ * User: admin
  * Date: 2018-05-04
  * Time: 14:05
  */

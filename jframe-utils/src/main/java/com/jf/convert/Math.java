@@ -3,7 +3,7 @@ package com.jf.convert;
 import java.math.BigDecimal;
 
 /**
- * Created by xujunfei on 2016/12/26.
+ * Created by admin on 2016/12/26.
  */
 public class Math {
 

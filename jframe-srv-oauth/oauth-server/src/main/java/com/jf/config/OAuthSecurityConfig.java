@@ -22,7 +22,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Created with IntelliJ IDEA.
  * Description: Spring Security配置
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-07
  * Time: 09:59
  */

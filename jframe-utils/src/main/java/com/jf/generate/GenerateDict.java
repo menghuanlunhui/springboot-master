@@ -12,7 +12,7 @@ import java.util.Map;
  * 生成数据字典
  * <p>支持MySQL & Postgresql</p>
  *
- * @author xujunfei
+ * @author admin
  * @version 3.0
  * @date 2016-11-02 10:56
  */
@@ -199,7 +199,7 @@ public class GenerateDict {
 
     String html = "<!doctype html><html><head><meta charset=\"UTF-8\"><title>数据字典</title>"
             + "<link href=\"http://cdn.bootcss.com/twitter-bootstrap/3.0.3/css/bootstrap.min.css\" rel=\"stylesheet\">"
-            + "</head><body><div class=\"container\"><h1 style=\"text-align:center;\">数据字典<small>made by jfxu</small></h1>";
+            + "</head><body><div class=\"container\"><h1 style=\"text-align:center;\">数据字典<small>made by admin</small></h1>";
 
     private void buildFile(List<String> columns, List<String> types, List<String> keys, List<String> nulls, List<String> defaults,
                            List<String> extras, List<String> comments, String tableComment) {

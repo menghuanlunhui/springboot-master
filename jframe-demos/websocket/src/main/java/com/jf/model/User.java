@@ -7,7 +7,7 @@ import java.util.Date;
  * 用户
  *
  * @date 2016年12月21日 上午 11:20:07
- * @author jfxu
+ * @Author admin
  */
 public class User implements Serializable {
 

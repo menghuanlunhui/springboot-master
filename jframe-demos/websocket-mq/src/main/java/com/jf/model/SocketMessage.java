@@ -6,7 +6,7 @@ import java.util.Date;
 /**
  * Created with IntelliJ IDEA.
  * Description: WebSocket接收对象
- * User: xujunfei
+ * User: admin
  * Date: 2018-01-09
  * Time: 15:49
  */

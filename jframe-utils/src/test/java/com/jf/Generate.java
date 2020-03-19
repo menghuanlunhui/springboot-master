@@ -10,7 +10,7 @@ import java.io.IOException;
 /**
  * Created with IntelliJ IDEA.
  * Description:
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-12
  * Time: 10:00
  */
@@ -38,9 +38,9 @@ public class Generate {
                 //.driver("org.postgresql.Driver")
                 //.schema("public")
                 .username("root")
-                .password("12345678")
+                .password("root")
                 .path(target)
-                .author("jfxu")
+                .author("admin")
                 .removePrefix(true);
 
         System.out.println("开始执行......");
@@ -71,9 +71,9 @@ public class Generate {
 //                .driver("org.postgresql.Driver")
 //                .schema("public")
                 .username("root")
-                .password("12345678")
+                .password("root")
                 .path(target)
-                .author("jfxu");
+                .author("admin");
 
         System.out.println("开始执行......");
         long start = System.currentTimeMillis();

@@ -18,7 +18,7 @@ import javax.annotation.PostConstruct;
 /**
  * Created with IntelliJ IDEA.
  * Description: OAuthClient
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-06
  * Time: 16:10
  */

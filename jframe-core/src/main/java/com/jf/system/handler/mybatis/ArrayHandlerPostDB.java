@@ -10,7 +10,7 @@ import java.sql.*;
 /**
  * Created with IntelliJ IDEA.
  * Description: mybatis处理数组类型[Postgresql]
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-15
  * Time: 18:32
  */

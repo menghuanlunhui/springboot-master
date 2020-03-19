@@ -10,7 +10,7 @@ import java.io.IOException;
 /**
  * Created with IntelliJ IDEA.
  * Description: Rest Error处理器
- * User: xujunfei
+ * User: admin
  * Date: 2018-07-05
  * Time: 17:06
  */

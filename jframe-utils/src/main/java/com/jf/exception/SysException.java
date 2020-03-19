@@ -4,7 +4,7 @@ import com.jf.commons.LogManager;
 
 /**
  * 自定义系统异常
- * Created by xujunfei on 2017/8/1.
+ * Created by admin on 2017/8/1.
  */
 public class SysException extends RuntimeException {
 

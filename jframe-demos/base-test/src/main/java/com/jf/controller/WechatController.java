@@ -13,7 +13,7 @@ import com.mxixm.fastboot.weixin.module.web.session.WxSession;
 /**
  * Created with IntelliJ IDEA.
  * Description: 微信公众号
- * User: xujunfei @https://github.com/FastBootWeixin/FastBootWeixin
+ * User: admin @https://github.com/FastBootWeixin/FastBootWeixin
  * Date: 2018-01-16
  * Time: 10:34
  */

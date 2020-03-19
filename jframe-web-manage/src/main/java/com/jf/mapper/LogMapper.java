@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * LogMapper Interface
  * @date 2016年08月29日 上午 11:15:12
- * @author jfxu
+ * @Author admin
  */
 public interface LogMapper {
 

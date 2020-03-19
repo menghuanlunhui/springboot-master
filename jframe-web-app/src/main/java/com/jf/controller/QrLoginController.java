@@ -28,7 +28,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Created with IntelliJ IDEA.
  * Description: 微信扫码
- * User: xujunfei
+ * User: admin
  * Date: 2019-03-22
  * Time: 14:12
  */

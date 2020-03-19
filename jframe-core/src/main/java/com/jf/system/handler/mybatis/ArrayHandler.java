@@ -12,7 +12,7 @@ import java.sql.SQLException;
 /**
  * Created with IntelliJ IDEA.
  * Description: mybatis处理数组[String[]]类型
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-15
  * Time: 18:32
  */

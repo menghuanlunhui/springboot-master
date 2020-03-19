@@ -21,7 +21,7 @@ import java.util.LinkedHashMap;
 /**
  * Created with IntelliJ IDEA.
  * Description: 自定义的权限校验
- * User: xujunfei
+ * User: admin
  * Date: 2018-10-31
  * Time: 16:14
  */

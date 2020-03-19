@@ -3,7 +3,7 @@ package com.jf.system.conf;
 /**
  * Created with IntelliJ IDEA.
  * Description: 系统静态常量
- * User: xujunfei
+ * User: admin
  * Date: 2019-03-07
  * Time: 17:53
  */

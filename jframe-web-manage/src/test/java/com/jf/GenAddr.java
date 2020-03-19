@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * Created with IntelliJ IDEA.
  * Description: 生成地址库js文件（需要修改输出的路径）
- * User: xujunfei
+ * User: admin
  * Date: 2018-01-30
  * Time: 11:25
  */

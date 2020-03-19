@@ -7,7 +7,7 @@ import java.lang.annotation.*;
 /**
  * BootstrapValidator 扩展
  * <p>正则验证器<b>value可空</b></p>
- * Created by xujunfei on 2017/1/19.
+ * Created by admin on 2017/1/19.
  */
 @Documented
 @Constraint(validatedBy = {EmptyPatternValidator.class})

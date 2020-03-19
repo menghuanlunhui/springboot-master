@@ -21,7 +21,7 @@ import java.util.TreeMap;
  * <p>推荐使用ID生成器</p>
  *
  * @date 2016年12月21日 上午 11:20:07
- * @author jfxu
+ * @Author admin
  */
 public class User extends BaseVo implements Serializable {
 

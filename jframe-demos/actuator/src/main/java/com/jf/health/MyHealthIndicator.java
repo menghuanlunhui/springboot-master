@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 /**
  * Created with IntelliJ IDEA.
  * Description: 自定义健康检查
- * User: xujunfei
+ * User: admin
  * Date: 2019-08-13
  * Time: 10:22
  */

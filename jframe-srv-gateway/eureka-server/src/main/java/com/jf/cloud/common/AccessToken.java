@@ -3,7 +3,7 @@ package com.jf.cloud.common;
 /**
  * Created with IntelliJ IDEA.
  * Description: Oauth2 AccessToken
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-06
  * Time: 16:31
  */

@@ -12,7 +12,7 @@ import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 /**
  * Created with IntelliJ IDEA.
  * Description:
- * User: xujunfei
+ * User: admin
  * Date: 2018-02-06
  * Time: 15:48
  */

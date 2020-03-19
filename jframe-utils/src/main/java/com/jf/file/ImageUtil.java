@@ -10,7 +10,7 @@ import java.io.InputStream;
 
 /**
  * 图片工具类
- * Created by xujunfei on 2017/6/7.
+ * Created by admin on 2017/6/7.
  */
 public class ImageUtil {
 

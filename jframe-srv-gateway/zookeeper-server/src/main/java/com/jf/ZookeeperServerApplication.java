@@ -7,7 +7,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 /**
  * Created with IntelliJ IDEA.
  * Description:
- * User: xujunfei
+ * User: admin
  * Date: 2019-07-05
  * Time: 10:38
  */

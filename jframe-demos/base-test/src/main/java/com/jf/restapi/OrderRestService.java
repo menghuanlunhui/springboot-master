@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * Created with IntelliJ IDEA.
  * Description: Feign方式实现，自带负载均衡
- * User: xujunfei
+ * User: admin
  * Date: 2018-02-27
  * Time: 10:27
  */

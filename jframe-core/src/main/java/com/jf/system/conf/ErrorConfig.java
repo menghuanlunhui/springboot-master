@@ -13,7 +13,7 @@ import java.util.Map;
  * Created with IntelliJ IDEA.
  * Description: 自定义错误页面
  *              也可以继承 DefaultErrorAttributes 重写 getErrorAttributes()
- * User: xujunfei
+ * User: admin
  * Date: 2018-05-25
  * Time: 13:29
  */

@@ -11,7 +11,7 @@ import java.util.Date;
 /**
  * 后台管理员
  * @date 2016年11月04日 下午 14:47:51
- * @author jfxu
+ * @Author admin
  */
 public class Admin extends BaseVo implements Serializable {
 

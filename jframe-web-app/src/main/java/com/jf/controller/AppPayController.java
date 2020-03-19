@@ -33,7 +33,7 @@ import java.util.Map;
 /**
  * 支付接口
  * Alipay & Wechat
- * Created by xujunfei on 2017/3/25.
+ * Created by admin on 2017/3/25.
  */
 @Controller
 public class AppPayController extends BaseController {

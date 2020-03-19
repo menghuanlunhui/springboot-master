@@ -9,7 +9,7 @@ import java.io.Serializable;
 /**
  * 后台用户组
  * @date 2016年11月04日 下午 14:47:51
- * @author jfxu
+ * @Author admin
  */
 public class Role extends BaseVo implements Serializable {
 

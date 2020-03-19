@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Created with IntelliJ IDEA.
  * Description: Quartz
- * User: xujunfei
+ * User: admin
  * Date: 2018-03-02
  * Time: 15:28
  */

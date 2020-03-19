@@ -8,7 +8,7 @@ import java.security.NoSuchAlgorithmException;
 /**
  * Created with IntelliJ IDEA.
  * Description:请求校验工具类
- * User: xujunfei
+ * User: admin
  * Date: 2018-01-16
  * Time: 10:42
  */

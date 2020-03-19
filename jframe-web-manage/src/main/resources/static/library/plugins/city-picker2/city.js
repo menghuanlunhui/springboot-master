@@ -1,5 +1,5 @@
 /**
- * Created by xujunfei on 2017/5/11.
+ * Created by admin on 2017/5/11.
  */
 !(function ($) {
     $.ajaxSetup({cache: true});

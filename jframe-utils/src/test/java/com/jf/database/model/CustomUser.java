@@ -8,7 +8,7 @@ import com.jf.json.StringArraySerialize;
 import java.util.Date;
 
 /**
- * Created by xujunfei on 2017/1/4.
+ * Created by admin on 2017/1/4.
  */
 public class CustomUser {
 

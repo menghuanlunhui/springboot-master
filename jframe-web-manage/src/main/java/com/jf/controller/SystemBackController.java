@@ -897,8 +897,8 @@ public class SystemBackController extends BaseController {
 
     // ***************邮件短信测试 ***************//
     /*Map<String, Object> map=new HashMap<String, Object>();
-    map.put("username", "xujunfei");
-	emailService.send(map,"809573150@qq.com", "Test", "register");
+    map.put("username", "admin");
+	emailService.send(map,"1228566913@qq.com", "Test", "register");
 	  
 	String code = StringUtil.getSmsCode(6); 
 	Map<String, String> root=new HashMap<String, String>(); 

@@ -7,7 +7,7 @@ import org.springframework.boot.ApplicationRunner;
 /**
  * Created with IntelliJ IDEA.
  * Description: 应用启动后执行方法
- * User: xujunfei
+ * User: admin
  * Date: 2018-04-17
  * Time: 10:35
  */

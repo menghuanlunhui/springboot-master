@@ -4,7 +4,7 @@ import com.jf.commons.LogManager;
 
 /**
  * http超时
- * Created by xujunfei on 2017/8/1.
+ * Created by admin on 2017/8/1.
  */
 public class HttpTimeoutException extends RuntimeException {
 

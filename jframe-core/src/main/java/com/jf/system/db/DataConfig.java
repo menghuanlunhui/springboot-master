@@ -33,7 +33,7 @@ import java.util.Properties;
 /**
  * Created with IntelliJ IDEA.
  * Description: DB数据源、Mybatis|Plugins、事务
- * User: xujunfei
+ * User: admin
  * Date: 2017-11-28
  * Time: 10:43
  *

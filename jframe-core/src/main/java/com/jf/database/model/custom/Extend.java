@@ -3,7 +3,7 @@ package com.jf.database.model.custom;
 /**
  * Created with IntelliJ IDEA.
  * Description: 拓展字段类
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-19
  * Time: 09:38
  */

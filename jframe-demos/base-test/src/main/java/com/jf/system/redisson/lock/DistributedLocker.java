@@ -5,7 +5,7 @@ import com.jf.exception.SysException;
 /**
  * Created with IntelliJ IDEA.
  * Description:获取锁管理类
- * User: xujunfei
+ * User: admin
  * Date: 2018-01-03
  * Time: 09:53
  */

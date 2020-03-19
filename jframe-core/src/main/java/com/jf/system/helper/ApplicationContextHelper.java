@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
  * Created with IntelliJ IDEA.
  * Description: 通过beanName获取对象实例
  *              PlatformService service = (PlatformService) ApplicationContextHelper.getBean("impl");
- * User: xujunfei
+ * User: admin
  * Date: 2019-07-01
  * Time: 17:54
  */

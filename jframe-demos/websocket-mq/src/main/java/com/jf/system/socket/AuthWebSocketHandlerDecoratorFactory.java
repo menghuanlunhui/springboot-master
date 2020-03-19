@@ -16,7 +16,7 @@ import java.security.Principal;
 /**
  * Created with IntelliJ IDEA.
  * Description: 装饰WebSocketHandlerDecorator对象，在连接建立时，保存websocket的session id；在连接断开时，从缓存中删除用户的sesionId值
- * User: xujunfei
+ * User: admin
  * Date: 2019-03-08
  * Time: 15:24
  */

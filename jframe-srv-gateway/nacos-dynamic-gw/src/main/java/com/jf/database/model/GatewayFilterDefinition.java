@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * Created with IntelliJ IDEA.
  * Description: 过滤器定义模型
- * User: xujunfei
+ * User: admin
  * Date: 2018-11-26
  * Time: 13:35
  */

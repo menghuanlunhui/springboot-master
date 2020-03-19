@@ -19,7 +19,7 @@ import java.util.Map;
 /**
  * Created with IntelliJ IDEA.
  * Description: 微信支付
- * User: xujunfei
+ * User: admin
  * Date: 2018-01-25
  * Time: 14:02
  */

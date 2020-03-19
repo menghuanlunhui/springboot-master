@@ -8,7 +8,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 /**
  * Created with IntelliJ IDEA.
  * Description: zookeeper注册中心-客户端
- * User: xujunfei
+ * User: admin
  * Date: 2019-07-05
  * Time: 10:38
  */

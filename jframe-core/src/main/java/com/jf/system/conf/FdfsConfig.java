@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * Created with IntelliJ IDEA.
  * Description: FastDFS
- * User: xujunfei
+ * User: admin
  * Date: 2018-01-19
  * Time: 14:20
  */

@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 /**
  * Created with IntelliJ IDEA.
  * Description: Redis Session 序列化
- * User: xujunfei
+ * User: admin
  * Date: 2018-11-23
  * Time: 10:43
  */

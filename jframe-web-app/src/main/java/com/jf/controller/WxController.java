@@ -26,7 +26,7 @@ import java.util.Map;
 /**
  * Created with IntelliJ IDEA.
  * Description: 微信公众号测试
- * User: xujunfei
+ * User: admin
  * Date: 2018-09-18
  * Time: 11:45
  */

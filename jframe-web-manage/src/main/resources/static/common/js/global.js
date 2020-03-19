@@ -1,5 +1,5 @@
 /********************
- * @Author jfxu
+ * @Author admin
  * <p>need: jquery.js </p>
  * <p>need plugins: layer.js/dropzone.js/toastr.js </p>
  * <p>modify plugins: city-picker/city-picker2/dropzone</p>
@@ -90,7 +90,7 @@ var parseParam = function (param) {
 
 /**
  * DataTables Configuration
- * Created by xujunfei on 2017/8/12.
+ * Created by admin on 2017/8/12.
  */
 var CONSTANT = {
     DEFAULT_OPTION: { // DataTables初始化选项

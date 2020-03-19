@@ -6,7 +6,7 @@ import java.util.Date;
 /**
  * 系统消息
  * @date 2017年09月11日 上午 11:05:15
- * @author jfxu
+ * @Author admin
  */
 public class Msg implements Serializable {
 

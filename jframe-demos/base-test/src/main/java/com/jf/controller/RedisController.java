@@ -16,7 +16,7 @@ import javax.servlet.http.HttpSession;
 /**
  * Created with IntelliJ IDEA.
  * Description:
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-21
  * Time: 13:58
  */
@@ -58,7 +58,7 @@ public class RedisController extends BaseController {
     @RequestMapping("/redisTemplate")
     @ResponseBody
     public ResMsg redisTemplate() {
-        redisTemplate.opsForValue().set("name", "xujunfei");
+        redisTemplate.opsForValue().set("name", "admin");
         System.out.println((String) redisTemplate.opsForValue().get("name"));
         //redisTemplate.delete("name");
         //String res = (String) redisTemplate.opsForValue().getAndSet("name", "hahahahah");
@@ -87,7 +87,7 @@ public class RedisController extends BaseController {
     @RequestMapping("/testSetSession")
     @ResponseBody
     public ResMsg testSetSession(HttpSession session) {
-        session.setAttribute("name", "xujunfei");
+        session.setAttribute("name", "admin");
         return new ResMsg(ResCode.SUCCESS.code(), ResCode.SUCCESS.msg());
     }
 

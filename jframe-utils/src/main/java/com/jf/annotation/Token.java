@@ -3,7 +3,7 @@ package com.jf.annotation;
 import java.lang.annotation.*;
 
 /**
- * Created by xujunfei on 2017/8/1.
+ * Created by admin on 2017/8/1.
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

@@ -5,7 +5,7 @@ import javax.validation.ConstraintValidatorContext;
 
 /**
  * BootstrapValidator 扩展
- * Created by xujunfei on 2017/1/19.
+ * Created by admin on 2017/1/19.
  */
 public class EmptyPatternValidator implements ConstraintValidator<EmptyPattern, String> {
 

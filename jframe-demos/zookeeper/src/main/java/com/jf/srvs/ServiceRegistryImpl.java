@@ -13,7 +13,7 @@ import java.util.concurrent.CountDownLatch;
 /**
  * Created with IntelliJ IDEA.
  * Description: 服务注册事件
- * User: xujunfei
+ * User: admin
  * Date: 2019-05-07
  * Time: 10:54
  */

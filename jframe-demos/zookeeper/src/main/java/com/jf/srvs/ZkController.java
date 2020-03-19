@@ -9,7 +9,7 @@ import java.util.ArrayList;
 /**
  * Created with IntelliJ IDEA.
  * Description: 服务发现 测试
- * User: xujunfei
+ * User: admin
  * Date: 2019-05-07
  * Time: 11:01
  */

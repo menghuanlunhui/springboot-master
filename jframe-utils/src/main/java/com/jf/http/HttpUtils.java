@@ -34,7 +34,7 @@ import java.util.*;
 /**
  * Created with IntelliJ IDEA.
  * Description: HTTP工具类
- * User: xujunfei
+ * User: admin
  * Date: 2019-05-20
  * Time: 17:16
  */

@@ -13,7 +13,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 /**
  * Created with IntelliJ IDEA.
  * Description: 异步任务 @EnableAsync
- * User: xujunfei
+ * User: admin
  * Date: 2017-11-28
  * Time: 11:03
  */

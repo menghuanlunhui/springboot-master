@@ -12,7 +12,7 @@ import java.text.DecimalFormat;
 /**
  * Created with IntelliJ IDEA.
  * Description: @JsonSerialize(using = DoubleSerialize.class)
- * User: xujunfei
+ * User: admin
  * Date: 2018-11-24
  * Time: 21:49
  */

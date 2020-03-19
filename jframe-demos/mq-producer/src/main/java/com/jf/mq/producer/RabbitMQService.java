@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * Created with IntelliJ IDEA.
  * Description: RabbitMQ消息生产者
- * User: xujunfei
+ * User: admin
  * Date: 2018-10-17
  * Time: 16:30
  */

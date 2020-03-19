@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by xujunfei on 2016/12/8.
+ * Created by admin on 2016/12/8.
  */
 public class MainTest {
 
@@ -47,7 +47,7 @@ public class MainTest {
             CustomUser user = new CustomUser();
             user.setAge(10);
             System.out.println(BeanUtil.getEntityValue("age", user));
-            BeanUtil.setEntityValue("name", "xujunfei", user);
+            BeanUtil.setEntityValue("name", "chneyun", user);
             System.out.println(user);
 
             System.out.println(BeanUtil.doMethod("getName", user));
@@ -60,7 +60,7 @@ public class MainTest {
 
     public static void testBeanToJson() {
         CustomUser user = new CustomUser();
-        user.setName("xujunfei");
+        user.setName("admin");
         user.setAge(10);
         user.setFlag(true);
         user.setBirth(new Date());
@@ -77,19 +77,19 @@ public class MainTest {
     }
 
     public static void testJsonToBean() {
-        String json = "{\"name\":\"xujunfei\",\"age\":10,\"flag\":true,\"birth\":\"2018-06-29\",\"time\":\"2018-06-29 05:02:27\",\"dates\":\"2018-06-29 13:02:27\",\"role\":{\"name\":\"super\",\"time\":\"2018-06-29 13:02:27\"}}";
+        String json = "{\"name\":\"chneyun\",\"age\":25,\"flag\":true,\"birth\":\"1992-06-29\",\"time\":\"2018-06-29 05:02:27\",\"dates\":\"2018-06-29 13:02:27\",\"role\":{\"name\":\"super\",\"time\":\"2018-06-29 13:02:27\"}}";
         CustomUser user = JacksonUtil.jsonToBean(json, CustomUser.class);
         System.out.println(user);
     }
 
     public static void testJsonToMap() {
-        String json = "{\"name\":\"xujunfei\",\"age\":10,\"flag\":true,\"birth\":\"2018-06-29\",\"time\":\"2018-06-29 05:02:27\",\"dates\":\"2018-06-29 13:02:27\",\"role\":{\"name\":\"super\",\"time\":\"2018-06-29 13:02:27\"}}";
+        String json = "{\"name\":\"admin\",\"age\":25,\"flag\":true,\"birth\":\"1992-06-29\",\"time\":\"2018-06-29 05:02:27\",\"dates\":\"2018-06-29 13:02:27\",\"role\":{\"name\":\"super\",\"time\":\"2018-06-29 13:02:27\"}}";
         Map map = JacksonUtil.jsonToMap(json);
         System.out.println(map);
     }
 
     public static void testJsonToList() {
-        String json = "[{\"name\":\"xujunfei\",\"age\":10,\"flag\":true,\"birth\":\"2018-06-29\",\"time\":\"2018-06-29 05:02:27\",\"dates\":\"2018-06-29 13:02:27\"},{\"name\":\"feifei\",\"age\":10,\"flag\":true,\"birth\":\"2018-06-29\",\"time\":\"2018-06-29 05:02:27\",\"dates\":\"2018-06-29 13:02:27\"}]";
+        String json = "[{\"name\":\"admin\",\"age\":25,\"flag\":true,\"birth\":\"1992-06-29\",\"time\":\"2018-06-29 05:02:27\",\"dates\":\"2018-06-29 13:02:27\"},{\"name\":\"feifei\",\"age\":10,\"flag\":true,\"birth\":\"2018-06-29\",\"time\":\"2018-06-29 05:02:27\",\"dates\":\"2018-06-29 13:02:27\"}]";
         List<CustomUser> list = JacksonUtil.jsonToList(json, CustomUser.class);
         System.out.println(list);
     }

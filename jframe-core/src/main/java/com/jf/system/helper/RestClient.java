@@ -13,7 +13,7 @@ import java.net.SocketTimeoutException;
 /**
  * Created with IntelliJ IDEA.
  * Description: restTemplate方法【仅供参考】
- * User: xujunfei
+ * User: admin
  * Date: 2018-07-05
  * Time: 16:31
  */

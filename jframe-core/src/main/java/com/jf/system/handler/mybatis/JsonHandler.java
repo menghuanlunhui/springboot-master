@@ -16,7 +16,7 @@ import java.sql.SQLException;
  *     Insert/Update: #{extend, typeHandler=com.jf.system.handler.mybatis.JsonTypeHandler, javaType=extend}
  *     ResultMap: property="extend" column="extend" typeHandler="com.jf.system.handler.mybatis.JsonHandler" javaType="extend"
  * </pre>
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-26
  * Time: 16:50
  */

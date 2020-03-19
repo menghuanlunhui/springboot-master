@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * Test Interface
  *
- * @author jfxu
+ * @Author admin
  * @date 2017年05月09日 上午 11:06:55
  */
 public interface TestMapper {

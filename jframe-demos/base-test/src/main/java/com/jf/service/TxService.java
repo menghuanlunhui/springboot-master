@@ -17,7 +17,7 @@ import javax.annotation.Resource;
 /**
  * Created with IntelliJ IDEA.
  * Description: 事务测试
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-26
  * Time: 14:30
  */

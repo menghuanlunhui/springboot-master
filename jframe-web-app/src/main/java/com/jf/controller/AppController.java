@@ -21,7 +21,7 @@ import java.util.regex.Pattern;
 
 /**
  * App通用接口
- * Created by xujunfei on 2017/4/7.
+ * Created by admin on 2017/4/7.
  */
 @RestController
 @RequestMapping("/app")

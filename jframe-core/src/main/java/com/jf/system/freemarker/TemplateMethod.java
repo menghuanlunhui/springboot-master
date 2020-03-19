@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * 格式化标签
- * create by jfxu
+ * create by admin
  */
 public class TemplateMethod implements TemplateMethodModel {
 

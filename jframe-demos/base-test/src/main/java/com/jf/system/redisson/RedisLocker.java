@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Created with IntelliJ IDEA.
  * Description: 分布式锁-redisson
- * User: xujunfei
+ * User: admin
  * Date: 2018-01-03
  * Time: 09:55
  */

@@ -8,7 +8,7 @@ import java.util.Collection;
 /**
  * Created with IntelliJ IDEA.
  * Description: 根据id取模(3)来获取表名
- * User: xujunfei
+ * User: admin
  * Date: 2019-11-14
  * Time: 11:05
  */

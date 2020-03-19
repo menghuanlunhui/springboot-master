@@ -9,7 +9,7 @@ import java.util.Date;
 /**
  * 日志表
  * @date 2016年11月04日 下午 14:47:51
- * @author jfxu
+ * @Author admin
  */
 public class Log extends BaseVo implements Serializable {
 

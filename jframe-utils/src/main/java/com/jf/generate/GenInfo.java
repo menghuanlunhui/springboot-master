@@ -3,7 +3,7 @@ package com.jf.generate;
 /**
  * Created with IntelliJ IDEA.
  * Description: 数据库生成工具配置类
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-15
  * Time: 11:42
  */

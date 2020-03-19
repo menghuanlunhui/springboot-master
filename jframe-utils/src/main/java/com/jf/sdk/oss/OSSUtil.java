@@ -17,7 +17,7 @@ import java.util.Date;
 /**
  * Created with IntelliJ IDEA.
  * Description: 阿里云OSS操作工具
- * User: xujunfei
+ * User: admin
  * Date: 2019-07-24
  * Time: 14:09
  */

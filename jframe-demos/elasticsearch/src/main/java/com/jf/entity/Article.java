@@ -8,7 +8,7 @@ import org.springframework.data.elasticsearch.annotations.Setting;
 /**
  * Created with IntelliJ IDEA.
  * Description: ES文档
- * User: xujunfei
+ * User: admin
  * Date: 2019-07-16
  * Time: 11:22
  */

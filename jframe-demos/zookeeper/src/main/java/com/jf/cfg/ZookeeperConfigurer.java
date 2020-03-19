@@ -16,7 +16,7 @@ import java.util.Properties;
 /**
  * Created with IntelliJ IDEA.
  * Description: 分布式配置
- * User: xujunfei
+ * User: admin
  * Date: 2019-05-08
  * Time: 11:44
  */

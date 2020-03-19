@@ -3,7 +3,7 @@ package com.jf.database.model;
 /**
  * Created with IntelliJ IDEA.
  * Description: JSON配置
- * User: xujunfei
+ * User: admin
  * Date: 2019-03-04
  * Time: 16:35
  */

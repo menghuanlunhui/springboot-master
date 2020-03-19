@@ -3,7 +3,7 @@ package com.jf.sdk.wxpay;
 /**
  * Created with IntelliJ IDEA.
  * Description:
- * User: xujunfei
+ * User: admin
  * Date: 2019-02-25
  * Time: 10:23
  */

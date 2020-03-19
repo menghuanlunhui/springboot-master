@@ -40,7 +40,7 @@ import java.util.*;
  * Description: 高亮搜索结果映射方法
  *
  * @see org.springframework.data.elasticsearch.core.DefaultResultMapper
- * User: xujunfei
+ * User: admin
  * Date: 2019-07-16
  * Time: 18:09
  */

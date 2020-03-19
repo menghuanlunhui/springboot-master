@@ -1,7 +1,7 @@
 package com.jf.database.model.custom;
 
 /**
- * Created by xujunfei on 2017/4/1.
+ * Created by admin on 2017/4/1.
  */
 public class NameValue {
 

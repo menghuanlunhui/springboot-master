@@ -10,7 +10,7 @@ import org.springframework.remoting.rmi.RmiRegistryFactoryBean;
 /**
  * Created with IntelliJ IDEA.
  * Description:
- * User: xujunfei
+ * User: admin
  * Date: 2018-03-28
  * Time: 10:51
  */

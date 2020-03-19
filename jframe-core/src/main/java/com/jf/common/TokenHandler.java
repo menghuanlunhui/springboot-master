@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Created with IntelliJ IDEA.
  * Description: Token处理器 支持Redis与MySQL数据
- * User: xujunfei
+ * User: admin
  * Date: 2019-05-05
  * Time: 16:13
  */

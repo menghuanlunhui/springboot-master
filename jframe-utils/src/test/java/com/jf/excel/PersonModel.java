@@ -8,7 +8,7 @@ import java.util.Date;
 /**
  * Created with IntelliJ IDEA.
  * Description: mybatis -> model -> excel
- * User: xujunfei
+ * User: admin
  * Date: 2018-06-27
  * Time: 11:15
  */

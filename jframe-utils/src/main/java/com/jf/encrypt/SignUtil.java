@@ -11,7 +11,7 @@ import java.util.TreeMap;
 /**
  * Created with IntelliJ IDEA.
  * Description: 参数加密、验签
- * User: xujunfei
+ * User: admin
  * Date: 2018-07-09
  * Time: 17:40
  */

@@ -8,7 +8,7 @@ import java.util.concurrent.Future;
 /**
  * Created with IntelliJ IDEA.
  * Description: 使用Future以及定义超时
- * User: xujunfei
+ * User: admin
  * Date: 2018-04-25
  * Time: 12:11
  */

@@ -10,7 +10,7 @@ import java.util.Random;
 /**
  * Created with IntelliJ IDEA.
  * Description: 密码工具类
- * User: xujunfei
+ * User: admin
  * Date: 2018-04-26
  * Time: 16:34
  */

@@ -23,7 +23,7 @@ import java.net.URISyntaxException;
 import java.util.Map;
 
 /**
- * Created by xujunfei on 2017/3/30.
+ * Created by admin on 2017/3/30.
  */
 @Component
 public class JPushService {
