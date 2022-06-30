@@ -17,7 +17,7 @@
     <properties>
         <project.name>manage</project.name>
         <poi.version>3.17</poi.version>
-        <itextpdf.version>5.5.9</itextpdf.version>
+        <itextpdf.version>5.5.12</itextpdf.version>
         <itextasian.version>5.2.0</itextasian.version>
     </properties>
 
